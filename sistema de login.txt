@@ -1,0 +1,2 @@
+email=cadastre o seu email
+login=cadastre seu login
